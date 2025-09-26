@@ -1,1 +1,1 @@
-# caudata_diversification
+# caudata_diversification This repository contains all the data and code used in the manuscript entitled 'Exploring the abiotic and biotic drivers of uneven species richness in salamanders and newts' All code is written in the R language (R Core Development Team, 2022). 
